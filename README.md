@@ -1,0 +1,5 @@
+This project is my first project that contains machine learning!The goal of this program is to make predictions about the price of a sheet in the exact width,length and color that the user whishes.
+In this specific programm the model recieves data from the "sheets" list and finds the patterns with the "price" list and furthermore makes predictions.
+Moreover, the user not only gets to see some recommendations but also gets to choose if he wants to add anything new in his current shopping cart. If the user chooses any of the recommended porducts,then they are being moved into a csv file, this csv file influences
+the whole recommendation system and it becomes more efficient the more the user runs teh program.Additionally, when the user finally decides to finish with his order, his whole order is being moved into another csv file.This transition is happening so that the model learns
+more about what people usually tent to buy and what are the prices of the specific combination that the user prefers. In addition, at the very end the user can see his sub total and confirm his order by re-typing the code that will appear in his monitor.
